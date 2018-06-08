@@ -5,7 +5,7 @@
     <display-name>My Blog</display-name>
 
     <servlet>
-        <servlet-name>todo-dispatcher</servlet-name>
+        <servlet-name>dispatcher</servlet-name>
         <servlet-class>
             org.springframework.web.servlet.DispatcherServlet
         </servlet-class>
@@ -17,7 +17,7 @@
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>todo-dispatcher</servlet-name>
+        <servlet-name>dispatcher</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 </web-app>
