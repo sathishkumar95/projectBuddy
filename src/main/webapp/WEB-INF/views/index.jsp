@@ -7,7 +7,7 @@
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/plugins.js"></script>
         <script type="text/javascript" src="js/scripts.js"></script>
-        <title>Solonick - Personal Portfolio</title>
+        <title>Sathish - Personal Portfolio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="robots" content="index, follow"/>
         <meta name="keywords" content=""/>
@@ -34,7 +34,7 @@
                 <div class="landing-logo"><img src="images/logo.png" alt=""></div>
                 <div class="landing-hero-text ">
                     <div class="landing-hero-text-block">
-                        <h1>Solonick.</h1>
+                        <h1>Sathish</h1>
                         <h3>Creative Responsive Personal Portfolio for : <br> Designers, Musicians, Video producers, Architects, Photographers, etc.</h3>
                         <a href="#sec2" class="custom-scroll-link btn float-btn flat-btn color-btn mar-top">View Demos</a>
                     </div>
