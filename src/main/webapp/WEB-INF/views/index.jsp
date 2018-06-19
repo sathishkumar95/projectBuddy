@@ -4,19 +4,19 @@
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
         <!--=============== scripts  ===============-->
-        <script type="text/javascript" src="js/jquery.min.js"></script>
-        <script type="text/javascript" src="js/plugins.js"></script>
-        <script type="text/javascript" src="js/scripts.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/resources/js/plugins.js"></script>
+        <script type="text/javascript" src="/resources/js/scripts.js"></script>
         <title>Sathish - Personal Portfolio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="robots" content="index, follow"/>
         <meta name="keywords" content=""/>
         <meta name="description" content=""/>
         <!--=============== css  ===============-->
-        <link type="text/css" rel="stylesheet" href="css/reset.css">
-        <link type="text/css" rel="stylesheet" href="css/plugins.css">
-        <link type="text/css" rel="stylesheet" href="css/style.css">
-        <link type="text/css" rel="stylesheet" href="css/color.css">
+        <link type="text/css" rel="stylesheet" href="/resources/css/reset.css">
+        <link type="text/css" rel="stylesheet" href="/resources/css/plugins.css">
+        <link type="text/css" rel="stylesheet" href="/resources/css/style.css">
+        <link type="text/css" rel="stylesheet" href="/resources/css/color.css">
         <!--=============== favicons ===============-->
         <link rel="shortcut icon" href="images/favicon.ico">
     </head>

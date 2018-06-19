@@ -2,15 +2,340 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f47196-ebf0-4888-a834-b5fc538c7b34" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/css/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/bg/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/images/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-06-04" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-06-08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/views/index_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/views/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/blog-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/coming-soon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/css/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-brands-400.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-light-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-light-300.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-light-300.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-light-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-light-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-light-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-regular-400.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-solid-900.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/lg.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/lg.eot?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/lg.svg?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/lg.ttf?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/fonts/lg.woff?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/all/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/all/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/all/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/all/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/all/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/all/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/avatar/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/avatar/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/avatar/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/avatar/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/avatar/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/bg/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/bg/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/bg/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/bg/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/clients/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/clients/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/clients/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/clients/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/clients/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/cover/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/cover/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/cover/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/cover/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/cover/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/cover/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/web/slider/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/web/slider/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/web/slider/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/web/slider/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/folio/web/slider/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/1-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/2-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/3-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/4-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/services/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/images/team/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/index8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/js/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio-single9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/portfolio8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/services2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/team-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/video/1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/site/video/2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/sathish-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/sathish-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/css/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/bg/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/blog-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/coming-soon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/css/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/css/plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-brands-400.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-light-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-light-300.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-light-300.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-light-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-light-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-light-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-regular-400.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-solid-900.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/lg.eot?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/lg.eot?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/lg.svg?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/lg.ttf?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/fonts/lg.woff?n1z373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/all/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/all/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/all/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/all/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/all/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/all/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/avatar/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/avatar/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/avatar/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/avatar/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/avatar/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/bg/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/bg/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/bg/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/bg/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/clients/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/clients/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/clients/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/clients/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/clients/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/cover/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/cover/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/cover/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/cover/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/cover/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/cover/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/web/slider/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/web/slider/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/web/slider/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/web/slider/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/folio/web/slider/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/1-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/2-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/3-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/4-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/services/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/images/team/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/index8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/js/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio-single9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/portfolio8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/services2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/team-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/video/1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/views/site/video/2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/sathish-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,7 +351,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59">
+            <state relative-caret-position="1328">
               <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
             </state>
           </provider>
@@ -44,29 +369,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+            <state relative-caret-position="231">
+              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todo-servlet.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml">
+      <file leaf-file-name="blog-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/blog-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="576">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="208">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -92,10 +417,11 @@
         <option value="$PROJECT_DIR$/src/main/java/launch/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/launch/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/Controller.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -118,9 +444,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +490,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sathish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sathish" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -182,6 +513,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,7 +629,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="25" width="1329" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -304,12 +637,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.51269037" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.016920473" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32994923" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18274112" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21996616" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27661228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -329,6 +662,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1328">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shiftcntrlalt/indexPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -579,31 +950,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="1328">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/blog-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        <state relative-caret-position="208">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
