@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET / HTTP/1.1" 200 10904 http-bio-8495-exec-1 824
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/logo.png HTTP/1.1" 404 949 http-bio-8495-exec-7 3
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/1.jpg HTTP/1.1" 404 949 http-bio-8495-exec-8 2
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/2.jpg HTTP/1.1" 404 949 http-bio-8495-exec-9 2
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/3.jpg HTTP/1.1" 404 949 http-bio-8495-exec-10 1
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/4.jpg HTTP/1.1" 404 949 http-bio-8495-exec-10 2
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/5.jpg HTTP/1.1" 404 949 http-bio-8495-exec-10 3
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/6.jpg HTTP/1.1" 404 949 http-bio-8495-exec-10 1
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/7.jpg HTTP/1.1" 404 949 http-bio-8495-exec-10 2
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/8.jpg HTTP/1.1" 404 949 http-bio-8495-exec-1 2
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:47 +0530] "GET /images/bg/bg.png HTTP/1.1" 404 949 http-bio-8495-exec-1 1
+0:0:0:0:0:0:0:1 - - [12/Jun/2018:18:05:59 +0530] "GET /site/index.html HTTP/1.1" 404 949 http-bio-8495-exec-1 2
